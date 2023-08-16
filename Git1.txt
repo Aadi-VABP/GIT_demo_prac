@@ -42,3 +42,7 @@ git commit will actually commit changes from the staging area
 git commit -m "message" - Creates a commit with a message attached
 git commit -m "message" --amend - Update previous commit instead of creating new one.
 
+
+git log View the commit history
+git log --all - Show all commits (not just current branch)
+git log --all --graph - Show branching visually in the command line

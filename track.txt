@@ -1,0 +1,5 @@
+--- Commit tracker --- 
+
+Created "commit1" with about git stuff
+
+Created "commit2" by adding this track.txt as a factor to created commit2

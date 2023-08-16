@@ -1,0 +1,44 @@
+Git known as version control system. 
+
+Free, Open source and distributed.
+
+Version control is a software that track and manage changes to files over time.
+
+
+GIT - it is a version control software that runs locally on your machine.
+GITHUB - it is a sevice that hosts Git repositories in the cloud and makes it easier to collabrate with other people.
+
+Git was created as command-line-tool. To use it, we run various git commands in a unix shell.(not so user friendly).
+
+User friendlyy - GUI's
+Github Desktop
+Tower
+SourceTree
+GitKraken
+Ungit
+
+
+Git installed.
+
+configured username and email.
+
+git status - gives information on the current status of a git repoitory and its contents.
+
+
+git init - will intialize git repository in folder of choice to be tracked.
+
+
+git add <file|folder> Pick changes to go into next commit
+git add file - Pick individual file
+git add folder/ - Pick all files inside a folder (and subfolders)
+git add . - Pick all files (in folder command line is running in)
+git restore <file>..." to discard changes in working directory if you made changes in file thats already added to staging area.
+
+
+git rm --cached <file> -  to unstage that was added but not commited
+
+
+git commit will actually commit changes from the staging area
+git commit -m "message" - Creates a commit with a message attached
+git commit -m "message" --amend - Update previous commit instead of creating new one.
+

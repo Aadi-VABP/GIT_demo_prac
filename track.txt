@@ -4,4 +4,6 @@ Created "commit1" with about git stuff
 
 Created "commit2" by adding this track.txt as a factor to created commit2
 
-Created "commit3" by testing gitkraken GUI to add this commit as previous were by terminal.
+Created "commit3" by testing gitkraken GUI to add this commit as previous were by
+
+Created "commit4" by implementing .gitignore an also some dummy extension files for ignoring

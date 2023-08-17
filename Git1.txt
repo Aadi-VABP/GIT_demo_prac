@@ -46,3 +46,22 @@ git commit -m "message" --amend - Update previous commit instead of creating new
 git log View the commit history
 git log --all - Show all commits (not just current branch)
 git log --all --graph - Show branching visually in the command line
+
+.gitignore - Tell git which files/folders it SHOULD NOT track.
+The rules for the patterns you can put in the .gitignore file are as follows:
+
+    Blank lines or lines starting with # are ignored.
+
+    Standard glob patterns work, and will be applied recursively throughout the entire working tree.
+
+    You can start patterns with a forward slash (/) to avoid recursivity.
+
+    You can end patterns with a forward slash (/) to specify a directory.
+
+    You can negate a pattern by starting it with an exclamation point (!).
+
+
+git diff - git diff shows you the exact lines added and removed — the patch but not yet staged
+git diff --staged - to see what you’ve staged that will go into your next commit
+
+rm -rf .git -  Remove git from project

@@ -94,3 +94,6 @@ be added to the feature1 branch
 
 git branch -D <branch_name> - Deletes a branch
 git branch -D feature1 - Deletes the feature1 branch
+
+
+git switch <branch_name> - used to switch between branches

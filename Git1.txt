@@ -47,6 +47,7 @@ git log View the commit history
 git log --all - Show all commits (not just current branch)
 git log --all --graph - Show branching visually in the command line
 
+
 .gitignore - Tell git which files/folders it SHOULD NOT track.
 The rules for the patterns you can put in the .gitignore file are as follows:
 
@@ -64,4 +65,32 @@ The rules for the patterns you can put in the .gitignore file are as follows:
 git diff - git diff shows you the exact lines added and removed — the patch but not yet staged
 git diff --staged - to see what you’ve staged that will go into your next commit
 
+
 rm -rf .git -  Remove git from project
+
+
+Repository = a folder containing code where any changes to the code are tracked by git.
+(To create a repository, we create a new folder on our computer, and then run git init )
+
+GitHub = a service that lets us save our git repositories online. It also helps us:
+- backup our code in case we delete it on our computer
+- see the history of our code changes more easily
+- alternatives include Bitbucket and GitLab
+Local repository = a git repository saved on our computer
+Remote repository = a git repository saved online (for example on GitHub)
+
+Branching
+Branching = create a copy of the version history that we can work on without affecting the
+original version history. This lets us work on multiple things (features + fixes) at the same time.
+
+git branch <branch_name> - Creates a new branch
+git branch feature1 - Create a new branch named feature1
+git checkout <branch_name> - Switch to a different branch and start working on that branch
+git checkout feature1 - Switch to the feature1 branch. New commits will now be added to the feature1 branch
+
+HEAD = points to which branch we are currently working on
+HEAD -> feature1 = we are currently working on the feature1 branch. Any new commits will
+be added to the feature1 branch
+
+git branch -D <branch_name> - Deletes a branch
+git branch -D feature1 - Deletes the feature1 branch

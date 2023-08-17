@@ -15,3 +15,7 @@ Created "branch1_1"
 Created "b1_1commit1" by making some changes in txt files and commiting them
 
 Created "b1_1commit2" to add one more commit in branch1_1 by adding this text in txt files
+
+Created "branch1_1_1"
+
+Created "b1_1_1commit1" lets take all files from brach1_1 into this new branch and adding this text typed.

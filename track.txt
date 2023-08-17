@@ -9,3 +9,7 @@ Created "commit3" by testing gitkraken GUI to add this commit as previous were b
 Created "commit4" by implementing .gitignore an also some dummy extension files for ignoring
 
 Created "commit5" by adding some data in both txt files
+
+Created "branch2_2"
+
+Created "b2_2commit1" by adding important txt in both txt files

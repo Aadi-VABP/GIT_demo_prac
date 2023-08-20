@@ -95,6 +95,8 @@ be added to the feature1 branch
 git branch -D <branch_name> - Deletes a branch
 git branch -D feature1 - Deletes the feature1 branch
 
+git switch <branch_name> - used to switch between branches
+
 
 git reflog -  shows a list of all commits that have been made in this repo, as well as some other key events, like when switching between branches (checkout). Each commit is identified by a SHA-1 hash (before the commit message). You can use these SHA-1 IDs to travel to any commit whenever you want. 
 
@@ -114,3 +116,4 @@ git merge <branch_name> - we merge branches, not specific commits.
 Basic steps to follow to merge - 
 1. switch or checkout the branch you want to merge changes into (the receiving branch) 
 2. Use the git merge command tp merge chages from a specificbranch into curent branch.
+

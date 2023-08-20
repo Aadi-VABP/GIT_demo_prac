@@ -41,3 +41,7 @@ Created "commit7" as a part of conflict solving.
 Merged branch1_1_1 to master - a conflict arise but kept all changes
 
 Created "commit8" as a part of conflict solving.
+
+Created "branch4_4"
+
+Created "b4_4commit1" by adding data about git diff

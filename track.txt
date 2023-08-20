@@ -10,6 +10,16 @@ Created "commit4" by implementing .gitignore an also some dummy extension files 
 
 Created "commit5" by adding some data in both txt files
 
+Created "branch2_2"
+
+Created "b2_2commit1" by adding important txt in both txt files
+
 Created "branch3_3"
 
 Created "b3_3commit1" as new branch created and some imp text added in these txt files.
+
+Merged branch3_3 to master
+
+Merged branch2_2 to master - a conflict arise but kept all changes
+
+Created "commit6" as a part of conflict solving.

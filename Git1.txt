@@ -94,3 +94,23 @@ be added to the feature1 branch
 
 git branch -D <branch_name> - Deletes a branch
 git branch -D feature1 - Deletes the feature1 branch
+
+
+git reflog -  shows a list of all commits that have been made in this repo, as well as some other key events, like when switching between branches (checkout). Each commit is identified by a SHA-1 hash (before the commit message). You can use these SHA-1 IDs to travel to any commit whenever you want. 
+
+
+git stash - The git stash command will discard all your untracked files, as well as staged and unstaged modifications. However, Git will temporarily save them, in case you want to retrieve them later.
+
+
+git checkout --<file> - This works similarly to git stash, except that it discards changes to a file permanently.
+
+
+git reset --hard "SHA-1ID's"- This also discards all changes permanently. if we commited and want to reset that is already commited then will use this. SHA-1 ID's can been see using git reflog
+
+
+git merge <branch_name> - we merge branches, not specific commits.
+                        - we always merge to the current HEAD branch 
+             
+Basic steps to follow to merge - 
+1. switch or checkout the branch you want to merge changes into (the receiving branch) 
+2. Use the git merge command tp merge chages from a specificbranch into curent branch.

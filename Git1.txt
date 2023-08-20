@@ -120,3 +120,13 @@ Basic steps to follow to merge -
 git diff - to view changes between commits, branches, files, our working directory and more .....
          - it is often used along git log, git status....
          - lists all the changes in our working directory that are NOT staged for next commit
+
+git diff --staged (or) git diff --cached - both show changes that are staged
+
+git diff --staged <file_name> - this will only show staged in a particular file
+ex. git diff --staged example.txt
+ex. git diff HEAD example.txt
+
+git diff <branch1> <branch2> - show changes between two branches
+
+git diff <commit1>..<commit2> - show the changes between two commits(commit names must be hash codes of commits)

@@ -41,3 +41,7 @@ Created "commit7" as a part of conflict solving.
 Merged branch1_1_1 to master - a conflict arise but kept all changes
 
 Created "commit8" as a part of conflict solving.
+
+Created "branch6_6"
+
+Created "b6_6ommit1" as new branch created and some imp text added in these txt files.

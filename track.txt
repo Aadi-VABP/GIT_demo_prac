@@ -47,3 +47,12 @@ Created "branch4_4"
 Created "b4_4commit1" by adding data about git diff
 
 Created "commit9" by adding data about git diff
+Created "branch5_5"
+
+Created "b5_5commit1" by adding data about stashing
+
+Merged branch4_4 to master
+
+Merged branch5_5 to master - a conflict arise but kept all changes
+
+Created "commit10" as a part of conflict solving.

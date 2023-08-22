@@ -117,6 +117,7 @@ Basic steps to follow to merge -
 1. switch or checkout the branch you want to merge changes into (the receiving branch) 
 2. Use the git merge command tp merge chages from a specificbranch into curent branch.
 
+<<<<<<< HEAD
 git diff - to view changes between commits, branches, files, our working directory and more .....
          - it is often used along git log, git status....
          - lists all the changes in our working directory that are NOT staged for next commit
@@ -130,3 +131,18 @@ ex. git diff HEAD example.txt
 git diff <branch1> <branch2> - show changes between two branches
 
 git diff <commit1>..<commit2> - show the changes between two commits(commit names must be hash codes of commits)
+=======
+git stash - easy way to stashing these uncommitted changes so that we can return to them later, without having to make unncecessary commits
+            these changes can be staged or unstaged
+
+git stash pop - to remove the most recently stashed chasnges in your stash ans re-apply them to your workingcopy.
+
+git stash apply - to apply whatever is stashed away, without removing it from stash.
+                - This can be useful if you want ato apply stashed changes to multiple branches.
+
+git stash list - will show list of stashed.
+
+git stash drop <stash_id> - will delete particular stash. stash_ID can be found in git stash list.
+
+git stash clear - will clear out all the stashes.
+>>>>>>> branch5_5

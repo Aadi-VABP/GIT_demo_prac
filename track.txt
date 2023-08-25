@@ -47,6 +47,7 @@ Created "branch4_4"
 Created "b4_4commit1" by adding data about git diff
 
 Created "commit9" by adding data about git diff
+
 Created "branch5_5"
 
 Created "b5_5commit1" by adding data about stashing
@@ -64,3 +65,9 @@ Created "commit10" as a part of conflict solving.
 Merged branch6_6 to master - a conflict arise but kept all changes
 
 Created "commit11" as a part of conflict solving.
+
+Created Github rep "GIT_demo_prac" in my github account
+
+First pushed "branch6_6" and next pushed "master" and still didn't compare them in my github repo
+
+Created "commit12" by adding about this text in master

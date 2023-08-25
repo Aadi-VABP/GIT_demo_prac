@@ -79,3 +79,7 @@ Created "commt14" as unknowingly created a committ "Updated track.txt"
 Created "commit15" by creating a README.md file and data of it
 
 Created "commit16" to test non-fast-forward errors
+
+Created "commit17" in remote repo to test non-fast-forward errors
+
+Created "commit18" to test pushing

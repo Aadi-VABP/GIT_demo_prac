@@ -71,3 +71,5 @@ Created Github rep "GIT_demo_prac" in my github account
 First pushed "branch6_6" and next pushed "master" and still didn't compare them in my github repo
 
 Created "commit12" by adding about this text in master
+
+Created "commit13" in my github and added to master to test git pull

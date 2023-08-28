@@ -117,8 +117,6 @@ Basic steps to follow to merge -
 1. switch or checkout the branch you want to merge changes into (the receiving branch) 
 2. Use the git merge command tp merge chages from a specificbranch into curent branch.
 
-<<<<<<< HEAD
-<<<<<<< HEAD
 git diff - to view changes between commits, branches, files, our working directory and more .....
          - it is often used along git log, git status....
          - lists all the changes in our working directory that are NOT staged for next commit

@@ -1,0 +1,85 @@
+--- Commit tracker --- 
+
+Created "commit1" with about git stuff
+
+Created "commit2" by adding this track.txt as a factor to created commit2
+
+Created "commit3" by testing gitkraken GUI to add this commit as previous were by
+
+Created "commit4" by implementing .gitignore an also some dummy extension files for ignoring
+
+Created "commit5" by adding some data in both txt files
+
+Created "branch1_1"
+
+Created "b1_1commit1" by making some changes in txt files and commiting them
+
+Created "b1_1commit2" to add one more commit in branch1_1 by adding this text in txt files
+
+Created "branch1_1_1"
+
+Created "b1_1_1commit1" lets take all files from brach1_1 into this new branch and adding this text typed.
+
+Created "branch2_2"
+
+Created "b2_2commit1" by adding important txt in both txt files
+
+Created "branch3_3"
+
+Created "b3_3commit1" as new branch created and some imp text added in these txt files.
+
+Merged branch3_3 to master
+
+Merged branch2_2 to master - a conflict arise but kept all changes
+
+Created "commit6" as a part of conflict solving.
+
+Merged branch1_1 to master - a conflict arise but kept all changes
+
+Created "commit7" as a part of conflict solving.
+
+Merged branch1_1_1 to master - a conflict arise but kept all changes
+
+Created "commit8" as a part of conflict solving.
+
+Created "branch4_4"
+
+Created "b4_4commit1" by adding data about git diff
+
+Created "commit9" by adding data about git diff
+
+Created "branch5_5"
+
+Created "b5_5commit1" by adding data about stashing
+
+Created "branch6_6"
+
+Created "b6_6ommit1" as new branch created and some imp text added in these txt files.
+
+Merged branch4_4 to master
+
+Merged branch5_5 to master - a conflict arise but kept all changes
+
+Created "commit10" as a part of conflict solving.
+
+Merged branch6_6 to master - a conflict arise but kept all changes
+
+Created "commit11" as a part of conflict solving.
+
+Created Github rep "GIT_demo_prac" in my github account
+
+First pushed "branch6_6" and next pushed "master" and still didn't compare them in my github repo
+
+Created "commit12" by adding about this text in master
+
+Created "commit13" in my github and added to master to test git pull
+
+Created "commt14" as unknowingly created a committ "Updated track.txt"
+
+Created "commit15" by creating a README.md file and data of it
+
+Created "commit16" to test non-fast-forward errors
+
+Created "commit17" in remote repo to test non-fast-forward errors
+
+Created "commit18" to test pushing
